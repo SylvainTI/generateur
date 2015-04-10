@@ -1,0 +1,2 @@
+L'objectif est de développer un automate capable de produire en quantité psychologiquement illimitée  des objets acceptables dans un domaine de communication antérieurement défini.
+Ces développements consistent dans un premier temps à migrer l'application existante (hypercard, java) dans une technologie plus en adéquation avec l'écosystème web.
